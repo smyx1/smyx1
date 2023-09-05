@@ -50,19 +50,19 @@
      <img src="https://img.shields.io/badge/-Miro-05122A?style=flat&logo=miro"/>
      <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello"/>
      <br>
-     <p>Repositories</p>
+     <h3>Repositories</h3>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <br>
-     <p>Data bases</p>
+     <h3>Data bases</h3>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
      <img src="https://img.shields.io/badge/-PhpMyAdmin-05122A?style=flat&logo=phpmyadmin"/>
      <img src="https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=sql"/>
      <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle"/>
      <br>
-     <p>IDE</p>
+     <h3>IDE</h3>
      <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <br>
