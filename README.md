@@ -80,8 +80,8 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
+      <p>Please don't hesitate to contact me!  😋
+        <br>
       </p>
       <br>
       <a href="https://www.instagram.com/smyx.cl" target="_blank">
