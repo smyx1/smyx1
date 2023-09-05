@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" width="900em" style="border-radius: 40px; border: 2px solid #000;" src="https://i.imgur.com/BAgCmDI.jpg" alt="Descripción de la imagen"/>
+        <img height="360em" width="900em" style="border-radius: 40px; border: 2px solid #000;" src="https://i.imgur.com/lLlr50B.png" alt="Descripción de la imagen"/>
      </p>
     </td>
   </tr>
