@@ -36,7 +36,6 @@
      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
      <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss"/>
-     <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss"/>
      <br>
       <h3>BackEnd</h3>
      <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
